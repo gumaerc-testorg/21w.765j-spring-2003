@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: bf891327-63e6-3b41-9d54-95facf5cdf02
 ---
@@ -17,7 +19,7 @@ For example, say you have a line of text:
 It was a dark and stormy night.
 
 This is how we boldface the text with HTML:  
-<b>It was a dark and stormy night.</b>
+\<b>It was a dark and stormy night.\</b>
 
 When viewed through a web browser, it looks like this:  
 **It was a dark and stormy night.**
