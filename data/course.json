@@ -44,6 +44,7 @@
   "course_title": "Theory and Practice of Non-linear and Interactive Narrative",
   "course_description": "This class covers a range of topics including hypertext, interactive cinema, games, installation art, and soundscapes. It examines the potential for dynamic narrative in traditional media like novels and films and as well as in computer-based stories and games. The course focuses on the creation of electronic stories and games using simple authoring systems and multimedia software tools. Students present and constructively critique one another's work in progress in a workshop setting aimed at expanding the representational powers of a new creative medium.\n",
   "department_numbers": [
+    "CMS-W",
     "21L"
   ],
   "extra_course_numbers": "21L.489J,CMS.845",
@@ -53,6 +54,7 @@
     "website": "21w-765j-theory-and-practice-of-non-linear-and-interactive-narrative-spring-2003"
   },
   "learning_resource_types": [],
-  "site_uid": "b9b6b01a-d8a3-4ab1-b963-d5f871040723",
+  "site_uid": "c209e734-1c13-478e-acf2-003c65a630e1",
+  "short_id": "21w.765j-spring-2003",
   "title": "Course Metadata"
 }

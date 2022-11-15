@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Related Resources
-type: CourseSection
 uid: 1070c838-c761-302f-fabb-8bc3aabb829c
 ---
 
@@ -45,7 +45,7 @@ Rapidly aggregative commentary on stories, with collaborative rating system that
 [Ebay](http://www.ebay.com/)  
 Descriptions reveal stories of items being auctioned.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Illuminatus Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)  
+[The Illuminatus Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)  
 Original material refers to wealth of backstory, expanded and researched by readers in a number of formats.
 
 [Small Town USA](http://web.mit.edu/21w765j/Spring_97/StudentWork_SP97/Final_Project/Laini/)  

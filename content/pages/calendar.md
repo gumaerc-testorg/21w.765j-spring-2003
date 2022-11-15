@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Calendar
-type: CourseSection
 uid: 3a3391b5-6569-8c85-cebc-a55ebc892237
 ---
 
@@ -33,7 +33,7 @@ Intro to Workshop
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Class Discussion of Key Terms: Definitions of "Interactive", "Non-linear", "Narrative", "Moose". [Past Projects]({{< baseurl >}}/pages/projects)
+Class Discussion of Key Terms: Definitions of "Interactive", "Non-linear", "Narrative", "Moose". {{% resource_link fd8a95a1-a63c-91b3-b478-3f6fd97cac55 "Past Projects" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ Recommendation: Visit Paul Pfeiffer Exhibit at List Visual Arts Center
 {{< tdopen >}}
 Kurt Squire on Games  
   
-After Class: Read some Articles on [Hypertext]({{< baseurl >}}/pages/related-resources)
+After Class: Read some Articles on {{% resource_link 1070c838-c761-302f-fabb-8bc3aabb829c "Hypertext" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
